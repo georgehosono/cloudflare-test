@@ -100,6 +100,4 @@ function Posts() {
   );
 }
 
-
-
 export default App;
